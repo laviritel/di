@@ -24,7 +24,7 @@ namespace ECommerceDomain
 
         public decimal UnitPrice
         {
-            get { return this.UnitPrice; }
+            get { return this.unitPrice; }
         }
     }
 }

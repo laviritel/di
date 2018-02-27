@@ -10,3 +10,15 @@ C:\Users\stani\Documents\Visual Studio 2015\Projects\DI\ECommerce\ECommereceSqlD
 C:\Users\stani\Documents\Visual Studio 2015\Projects\DI\ECommerce\ECommereceSqlDataLayer\obj\Debug\ECommereceSqlDataLayer.csprojResolveAssemblyReference.cache
 C:\Users\stani\Documents\Visual Studio 2015\Projects\DI\ECommerce\ECommereceSqlDataLayer\obj\Debug\ECommereceSqlDataLayer.dll
 C:\Users\stani\Documents\Visual Studio 2015\Projects\DI\ECommerce\ECommereceSqlDataLayer\obj\Debug\ECommereceSqlDataLayer.pdb
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\bin\Debug\ECommereceSqlDataLayer.dll.config
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\bin\Debug\ECommereceSqlDataLayer.dll
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\bin\Debug\ECommereceSqlDataLayer.pdb
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\bin\Debug\ECommerceDomain.dll
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\bin\Debug\EntityFramework.dll
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\bin\Debug\ECommerceDomain.pdb
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\obj\Debug\ECommereceSqlDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\obj\Debug\ECommereceSqlDataLayer.dll
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommereceSqlDataLayer\obj\Debug\ECommereceSqlDataLayer.pdb

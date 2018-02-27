@@ -3,3 +3,8 @@ C:\Users\stani\Documents\Visual Studio 2015\Projects\DI\ECommerce\ECommerceDomai
 C:\Users\stani\Documents\Visual Studio 2015\Projects\DI\ECommerce\ECommerceDomain\obj\Debug\ECommerceDomain.csprojResolveAssemblyReference.cache
 C:\Users\stani\Documents\Visual Studio 2015\Projects\DI\ECommerce\ECommerceDomain\obj\Debug\ECommerceDomain.dll
 C:\Users\stani\Documents\Visual Studio 2015\Projects\DI\ECommerce\ECommerceDomain\obj\Debug\ECommerceDomain.pdb
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommerceDomain\bin\Debug\ECommerceDomain.dll
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommerceDomain\bin\Debug\ECommerceDomain.pdb
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommerceDomain\obj\Debug\ECommerceDomain.csprojResolveAssemblyReference.cache
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommerceDomain\obj\Debug\ECommerceDomain.dll
+C:\Users\SBarkovskis\Documents\GitHub\di\ECommerce\ECommerceDomain\obj\Debug\ECommerceDomain.pdb

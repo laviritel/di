@@ -1,0 +1,11 @@
+﻿@model ECommerce.Models.FeaturedProductViewModel
+
+
+<h2>
+    Featured products
+</h2>
+
+@foreach(var product in Model.Products)
+{
+    <div>@product.SummaryText</div>
+}
